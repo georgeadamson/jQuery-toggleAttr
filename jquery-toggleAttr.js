@@ -1,5 +1,6 @@
 // jQuery toggleAttr() method.
 // George Adamson 2014
+// https://github.com/georgeadamson/jQuery-toggleAttr
 // Eg:
 // $('DIV').toggleAttr( 'disabled' )            // Add or remove disabled attribute on each DIV.
 // $(':text').toggleAttr( 'readonly', false )   // Remove readonly attribute on each textbox.
